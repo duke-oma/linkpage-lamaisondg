@@ -24,7 +24,7 @@ Ce dépôt contient le mini site de liens officiel de **LA MAISON DG**, une agen
 
 Ce site est hébergé via **GitHub Pages** à l’adresse suivante :
 
-👉 [https://ton-utilisateur.github.io/liens-lamaisondg](https://ton-utilisateur.github.io/liens-lamaisondg)
+👉 [ https://duke-oma.github.io/linkpage-lamaisondg/]( https://duke-oma.github.io/linkpage-lamaisondg/)
 
 Ce lien est utilisé pour générer un QR code intégré aux cartes de visite de l’agence.
 
